@@ -1,0 +1,7 @@
+team: platform
+domain: platform
+service: config-service
+nav_title: "Config Service"
+framework: mkdocs
+source_dir: docs/
+output_dir: site/

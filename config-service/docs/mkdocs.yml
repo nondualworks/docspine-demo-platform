@@ -1,0 +1,10 @@
+site_name: Config Service
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - How-To: how-to/
+  - Reference: reference/
+  - Explanation: explanation/
+  - Tutorial: tutorial/
+strict: true
