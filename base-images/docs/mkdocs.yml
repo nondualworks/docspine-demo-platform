@@ -1,9 +1,0 @@
-site_name: Base Images
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Reference: reference/
-  - Explanation: explanation/
-strict: true
-docs_dir: .
