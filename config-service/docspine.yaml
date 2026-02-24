@@ -5,3 +5,5 @@ nav_title: "Config Service"
 framework: mkdocs
 source_dir: docs/
 output_dir: site/
+pages: 7
+diataxis: ["how-to", "reference", "explanation", "tutorial"]
