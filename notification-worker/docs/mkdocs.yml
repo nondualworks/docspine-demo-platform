@@ -1,9 +1,0 @@
-site_name: Notification Worker
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - How-To: how-to/
-  - Reference: reference/
-strict: true
-docs_dir: .
