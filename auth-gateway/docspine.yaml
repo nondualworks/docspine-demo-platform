@@ -5,3 +5,5 @@ nav_title: "Auth Gateway"
 framework: mkdocs
 source_dir: docs/
 output_dir: site/
+pages: 5
+diataxis: ["reference", "how-to", "explanation"]
