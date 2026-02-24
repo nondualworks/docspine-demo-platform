@@ -5,3 +5,5 @@ nav_title: "Notification Worker"
 framework: mkdocs
 source_dir: docs/
 output_dir: site/
+pages: 4
+diataxis: ["how-to", "reference"]
