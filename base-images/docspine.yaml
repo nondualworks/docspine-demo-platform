@@ -5,3 +5,5 @@ nav_title: "Base Images"
 framework: mkdocs
 source_dir: docs/
 output_dir: site/
+pages: 3
+diataxis: ["reference", "explanation"]
